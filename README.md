@@ -157,8 +157,4 @@ The optimal number of clusters was k = 3.
 
 ## Citation and License
 
-START (2022). Global Terrorism Database (GTD).  
-https://www.start.umd.edu/data-tools/GTD  
-
-Users must comply with GTD terms.  
-Code released under the MIT License.
+START (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database, 1970 - 2020 [data file]. https://www.start.umd.edu/data-tools/GTD Users must comply with GTD’s terms and conditions. All code in this repository is provided under the MIT License.
