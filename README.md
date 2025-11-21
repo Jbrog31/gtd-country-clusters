@@ -1,13 +1,13 @@
 # Global Terrorism Database – Country Terrorism Profile Clustering Project
 
-This project applies unsupervised machine learning to the Global Terrorism Database (GTD) to identify distinct terrorism environment types across countries based on numerous characteristics.
+This small project applies unsupervised machine learning to the Global Terrorism Database (GTD) to identify distinct terrorism environment types across countries based on numerous characteristics. I find the data fascinating and wanted to see what I could do with it.
 
-The goal is twofold:
+Goals:
 
 - Cluster all countries with sufficient GTD activity into coherent terrorism-profile groups.
 - Identify interpretable patterns in tactics, severity, and organizational diversity that distinguish these clusters.
 
-The central question is whether quantitative behavioral features derived from GTD can reveal meaningful, real-world patterns in how terrorism manifests across different states. This project demonstrates that country-level terrorism environments exhibit clear, consistent operational signatures that can be discovered without supervision.
+The central question is whether quantitative behavioral features derived from GTD can reveal real-world patterns in how terrorism manifests across different states. This project demonstrates that country-level terrorism environments exhibit clear and consistent signatures that can be discovered without supervision.
 
 ## Countries Included
 
@@ -148,7 +148,7 @@ The optimal number of clusters was k = 3.
 - PCA for visualization
 - Heatmaps for behavioral signatures
 
-## Future Extensions
+## Future Additions
 
 - Temporal clustering
 - External covariates (GDP, regime type, conflict data)
